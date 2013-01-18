@@ -1,0 +1,7 @@
+[
+ {
+   "repository": "lge-kernel-geeb",
+   "target_path": "kernel/lge/geeb",
+   "branch": "jellybean"
+ }
+]
